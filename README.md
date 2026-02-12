@@ -102,3 +102,9 @@ If you like AIRO GPT:
 - Link to this repo from blogs or websites  
 
 Every mention helps AIRO GPT grow 🚀
+
+## 📘 Coverage
+
+Read more about AIRO GPT in this article:  
+👉 [I Built AIRO GPT — Smart AI Chat Assistant Android App (Dev.to)](https://dev.to/aarav_thakur_30df9e6d6aec/i-built-airogpt-a-smart-ai-chat-assistant-android-app-free-apk-323e)
+
