@@ -42,7 +42,7 @@ Only download AIRO GPT from this official repository.
 ## 📸 AIRO GPT Screenshots
 
 ### 🏠 AIRO GPT Home Page
-![AIRO GPT Home Interface](<img width="1899" height="718" alt="image" src="https://github.com/user-attachments/assets/d4241309-2484-4c2c-b2a0-7be169b91c4e" />)
+![AIRO GPT Home Interface]<img width="1899" height="718" alt="image" src="https://github.com/user-attachments/assets/d4241309-2484-4c2c-b2a0-7be169b91c4e" />
 
 AIRO GPT smart AI assistant homepage.
 
