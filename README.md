@@ -1,3 +1,8 @@
+# APP LOGO 
+
+<img width="408" height="612" alt="logo-DjxRGUZ9" src="https://github.com/user-attachments/assets/b07a0906-9fd4-4eb7-96a5-2d12b20546db" />
+
+
 # AIRO GPT – Android APK Download (Official)
 
 AIRO GPT is a free AI chat assistant app for Android users.
