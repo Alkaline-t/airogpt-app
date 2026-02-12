@@ -24,3 +24,13 @@ How to Install
 2) Allow unknown sources
 
 3) Install app
+
+# APP PAGES 
+
+1) <img width="1899" height="718" alt="image" src="https://github.com/user-attachments/assets/02359267-533e-4e10-b7e4-1cb88fdbb80e" />
+2) <img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/c32dab05-a522-4339-8ca2-ee1decef9d29" />
+3) <img width="1895" height="899" alt="image" src="https://github.com/user-attachments/assets/5938a786-24b9-4a28-950f-0c991bd057b9" />
+4) <img width="1845" height="700" alt="image" src="https://github.com/user-attachments/assets/b37e0472-2ed3-4648-81fc-7b8ce74c61b9" />
+
+
+
