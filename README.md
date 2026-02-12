@@ -1,4 +1,4 @@
-# AIRO GPT – Official Android App & APK Download
+# 🤖 AIRO GPT – Official Android App & APK Download
 
 **AIRO GPT** is a smart AI chat assistant app that helps users get instant answers, creative help, and intelligent support for any task. This repository provides the **official AIRO GPT Android APK download** and project resources.
 
