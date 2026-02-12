@@ -42,28 +42,28 @@ Only download AIRO GPT from this official repository.
 ## 📸 AIRO GPT Screenshots
 
 ### 🏠 AIRO GPT Home Page
-![AIRO GPT Home Interface]<img width="1899" height="718" alt="image" src="https://github.com/user-attachments/assets/d4241309-2484-4c2c-b2a0-7be169b91c4e" />
+[AIRO GPT Home Interface]<img width="1899" height="718" alt="image" src="https://github.com/user-attachments/assets/d4241309-2484-4c2c-b2a0-7be169b91c4e" />
 
 AIRO GPT smart AI assistant homepage.
 
 ---
 
 ### 🔐 AIRO GPT Login Screen
-![AIRO GPT Login](<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/51eb24ae-acdd-42f6-bd6e-db6839ff6fe7" />)
+[AIRO GPT Login]<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/51eb24ae-acdd-42f6-bd6e-db6839ff6fe7" />
 
 Secure AIRO GPT account login screen.
 
 ---
 
 ### 📝 AIRO GPT Sign Up
-![AIRO GPT Signup](<img width="1895" height="899" alt="image" src="https://github.com/user-attachments/assets/d5e9259d-bfd9-43d9-9f24-19b6056bea6a" />)
+[AIRO GPT Signup]<img width="1895" height="899" alt="image" src="https://github.com/user-attachments/assets/d5e9259d-bfd9-43d9-9f24-19b6056bea6a" />
 
 Create your AIRO GPT account.
 
 ---
 
 ### ⚡ AIRO GPT How It Works
-![AIRO GPT How It Works](<img width="1845" height="700" alt="image" src="https://github.com/user-attachments/assets/90e32294-8c0d-4ca6-8ece-68acda01c0bb" />)
+[AIRO GPT How It Works]<img width="1845" height="700" alt="image" src="https://github.com/user-attachments/assets/90e32294-8c0d-4ca6-8ece-68acda01c0bb" />
 
 How AIRO GPT works in simple steps.
 
