@@ -16,3 +16,11 @@ Features
 3) Simple UI
 
 4) Free to use foreever (Just want to create an account in it)
+
+How to Install
+
+1) Download APK
+
+2) Allow unknown sources
+
+3) Install app
