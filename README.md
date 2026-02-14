@@ -1,6 +1,6 @@
-# AIRO GPT – Smart AI Chat Assistant for Android
+# Airo GPT – Smart AI Chat Assistant for Android
 
-**AIRO GPT** is a smart AI chat assistant Android app designed to provide fast, intelligent, and user-friendly conversations. It helps users ask questions, get explanations, and interact with an AI in a simple mobile interface.
+**Airo GPT** is a smart AI chat assistant Android app designed to provide fast, intelligent, and user-friendly conversations. It helps users ask questions, get explanations, and interact with an AI in a simple mobile interface.
 
 This repository contains the **official AIRO GPT Android APK** for download and installation.
 
