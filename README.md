@@ -108,3 +108,7 @@ Every mention helps Airo GPT grow 🚀
 Read more about Airo GPT in this article:  
 👉 [I Built Airo GPT — Smart AI Chat Assistant Android App (Dev.to)](https://dev.to/aarav_thakur_30df9e6d6aec/i-built-airogpt-a-smart-ai-chat-assistant-android-app-free-apk-323e)
 
+## Medium Page
+👉 [Read on it that Why I built Airo GPT? (Medium.com)](https://medium.com/@thakuraarav897/why-i-built-airo-gpt-the-vision-behind-the-ai-platform-aarav-thakur-167753c15fb2)
+
+
