@@ -85,6 +85,8 @@ This Airo GPT repository is used to:
 - Expanded assistant tools  
 
 ---
+## Airo GPT MUSIC (NEW) 
+👉 [Official Page of Airo GPT Music](airogptmusic.lovable.app)
 
 ## 📄 License
 
